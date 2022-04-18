@@ -3,4 +3,4 @@
 
 ## Статьи
 
-+ **[Джеймс Бах о плавающих ошибках] (https://www.software-testing.ru/library/testing/general-testing/2280-how-to-investigate-intermittent-problems)**
++ **[Джеймс Бах о плавающих ошибках](https://www.software-testing.ru/library/testing/general-testing/2280-how-to-investigate-intermittent-problems)**
